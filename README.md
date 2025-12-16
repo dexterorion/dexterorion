@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 👷 I'm currently a founding engineer at Nova Pay
+- 👨‍🎓 Also, I am a PhD candidate at UFSCar, interested in monolith to microservices decomposition
+  - [Google Scholar](https://scholar.google.com/citations?user=NtssVqoAAAAJ&hl=en&oi=ao)
+  - [ResearchGate](https://www.researchgate.net/profile/Vinicius-Nordi-Esperanca?ev=hdr_xprf)
+- ⚽ I'm a Palmeiras (Sociedade Esportiva Palmeiras) supporter
+- 🏃 I'm (trying to be) a [triathlete](https://www.strava.com/athletes/51204048)
+- 📫 You can reach me:
+  - [Email](mailto:viniciusnordiesperanca@gmail.com)
+  - [Linkedin](https://linkedin.com/in/vnordi)
+
 <!--
 **dexterorion/dexterorion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
